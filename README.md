@@ -7,7 +7,7 @@ Download the table of all bacteria assemblies from RefSeq: https://ftp.ncbi.nlm.
 ## Step 2: Make a table that contains ftp path data
 After downloading `assembly_summary.txt`, remove the first line, and delete the “# “ from the beginning of the header. Use Kyle's script (`scripts/refseq_assemblies.Rmd`) to create `accession_ftp_path.tsv` (accession, ftp path to rna fasta, and the subfolder that contains the file) and `unique_subfolders.tsv` (the list of unique subfolders) 
 
-## Step 3: Download rna_from_genome.fna files
+## Step 3: Download `*_rna_from_genome.fna.gz` files
 Set up a root directory (say `/scr1/users/leej39/RefSeq_rna_200k`). Use `script/download_rna_fna.bash` to download rna fasta files to respective subfolder. **About 200K files are to be downloaded, so it is recommended to use multiple subfolders to store files.** It takes ~15 hours.
 
 ## Step 4: Extract 16S region
