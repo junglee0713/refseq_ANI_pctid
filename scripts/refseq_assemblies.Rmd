@@ -1,0 +1,70 @@
+---
+title: "RefSeq assemblies"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+first_words <- function (x, n) {
+  x_words <- str_split_fixed(x, " +", n + 1)
+  x_words <- x_words[,seq_len(n)]
+  apply(x_words, 1, paste, collapse = " ")
+}
+```
+
+```{r}
+refseq_cols <- cols(
+  taxid = col_integer(), species_taxid = col_integer(),
+  excluded_from_refseq = col_character()
+)
+refseq_factors <- c(
+  "version_status", "release_type", "genome_rep", 
+  "paired_asm_comp")
+assembly_level_levels <- c(
+  "Complete Genome", "Chromosome", "Scaffold", "Contig")
+refseq <- read_tsv(
+  "data/no_header_assembly_summary.txt",
+  col_types = refseq_cols,
+  quote = "") %>%
+  mutate(across(all_of(refseq_factors), factor)) %>%
+  mutate(assembly_level = factor(assembly_level, levels=assembly_level_levels)) %>%
+  mutate(species_name = first_words(organism_name, 2))
+```
+
+```{r}
+refseq %>%
+  count(species_name, assembly_level) %>%
+  group_by(species_name) %>%
+  filter(sum(n) > 1000) %>%
+  ungroup() %>%
+  mutate(species_name = fct_reorder(species_name, n, .fun = sum)) %>%
+  ggplot() +
+  geom_col(aes(x=species_name, y=n, fill=assembly_level)) +
+  coord_flip() +
+  theme_bw()
+```
+
+```{r, eval = F}
+out <- refseq %>%
+  mutate(rna_name = str_extract(ftp_path, "[^//]+$")) %>%
+  mutate(rna_path = paste0(ftp_path, "/", rna_name, "_rna_from_genomic.fna.gz")) %>%
+  mutate(rna_path = str_replace(rna_path, "^ftp:", "https:")) %>%
+  select(assembly_accession, rna_path) %>%
+  mutate(subfolder = str_remove_all(rna_path, "https://ftp.ncbi.nlm.nih.gov/genomes/all/")) %>%
+  filter(str_detect(subfolder, "^GCF")) %>%
+  mutate(subfolder = str_remove_all(subfolder, "GCF_.+$")) %>%
+  mutate(subfolder = str_sub(subfolder, 1, 12)) 
+
+out %>%
+  write_tsv("accession_ftp_path.tsv", col_names = F) #197,012 rows
+
+out %>%
+  select(subfolder) %>%
+  unique() %>%
+  write_tsv("unique_subfolders.tsv", col_names = F) #6,445 rows
+```
+
+
