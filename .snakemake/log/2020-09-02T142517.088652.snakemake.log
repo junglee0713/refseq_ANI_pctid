@@ -1,0 +1,106 @@
+Building DAG of jobs...
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/010//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/007//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/009//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/021//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/090//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/174//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/183//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/225//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/521//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/280//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/648//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/700//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/010//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/007//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/009//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/021//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/090//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/174//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/183//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/225//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/521//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/280//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/648//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/700//.DONEokfasta contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700//.DONEunzip contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+Using shell: /usr/bin/bash
+Provided cluster nodes: 300
+Job counts:
+	count	jobs
+	1	all
+	1	collect_16S
+	2
+
+[Wed Sep  2 14:25:17 2020]
+rule collect_16S:
+    input: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/010//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/007//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/009//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/021//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/090//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/174//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/183//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/225//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/521//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/280//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/648//.DONEokfasta, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/700//.DONEokfasta
+    output: /scr1/users/leej39/RefSeq_rna_200k/all_16S.fa
+    jobid: 1
+
+
+            cd /scr1/users/leej39/RefSeq_rna_200k/16S_fna
+            find /scr1/users/leej39/RefSeq_rna_200k/16S_fna -name "*16S.fna" | xargs cat > /scr1/users/leej39/RefSeq_rna_200k/all_16S.fa
+        
+Submitted job 1 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+[Wed Sep  2 14:25:47 2020]
+Finished job 1.
+1 of 2 steps (50%) done
+
+[Wed Sep  2 14:25:47 2020]
+localrule all:
+    input: /scr1/users/leej39/RefSeq_rna_200k/all_16S.fa
+    jobid: 0
+
+[Wed Sep  2 14:25:47 2020]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: /home/leej39/refseq_ANI_pctid/.snakemake/log/2020-09-02T142517.088652.snakemake.log
+mail -s "Workflow finished successfully" junglee0713@gmail.com < /home/leej39/refseq_ANI_pctid/.snakemake/log/2020-09-02T142517.088652.snakemake.log

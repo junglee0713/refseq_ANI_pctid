@@ -1,0 +1,17 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cluster nodes: 300
+Job counts:
+	count	jobs
+	1	all
+	1
+
+[Wed Sep  2 14:16:33 2020]
+localrule all:
+    jobid: 0
+
+[Wed Sep  2 14:16:33 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /home/leej39/refseq_ANI_pctid/.snakemake/log/2020-09-02T141633.402398.snakemake.log
+mail -s "Workflow finished successfully" junglee0713@gmail.com < /home/leej39/refseq_ANI_pctid/.snakemake/log/2020-09-02T141633.402398.snakemake.log

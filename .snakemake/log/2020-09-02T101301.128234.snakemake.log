@@ -1,0 +1,4 @@
+FileExistsError in line 8 of /home/leej39/refseq_ANI_pctid/Snakefile:
+[Errno 17] File exists: '/scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv'
+  File "/home/leej39/refseq_ANI_pctid/Snakefile", line 8, in <module>
+  File "/home/leej39/miniconda3/envs/sunbeam/lib/python3.6/os.py", line 220, in makedirs

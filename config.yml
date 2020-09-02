@@ -1,0 +1,7 @@
+all:
+  root: '/scr1/users/leej39/RefSeq_rna_200k'
+  admin_email: 'junglee0713@gmail.com' 
+  subfolder_fp: '/scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv'
+
+okfasta:
+  script: '/home/leej39/refseq_ANI_pctid/scripts/run_okfasta.bash'

@@ -1,0 +1,235 @@
+Building DAG of jobs...
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700//.DONEcopying contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+Using shell: /usr/bin/bash
+Provided cluster nodes: 300
+Job counts:
+	count	jobs
+	1	all
+	12	copy_rna_fna
+	13
+
+[Wed Sep  2 11:00:40 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009//.DONEcopying
+    jobid: 3
+    wildcards: subfolder=GCF/000/009/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/000/009/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009//.DONEcopying
+        
+Submitted job 3 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:40 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010//.DONEcopying
+    jobid: 1
+    wildcards: subfolder=GCF/000/010/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/000/010/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010//.DONEcopying
+        
+Submitted job 1 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:41 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183//.DONEcopying
+    jobid: 7
+    wildcards: subfolder=GCF/000/183/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/000/183/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183//.DONEcopying
+        
+Submitted job 7 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:41 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021//.DONEcopying
+    jobid: 4
+    wildcards: subfolder=GCF/000/021/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/000/021/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021//.DONEcopying
+        
+Submitted job 4 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:41 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700//.DONEcopying
+    jobid: 12
+    wildcards: subfolder=GCF/001/700/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/001/700/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700//.DONEcopying
+        
+Submitted job 12 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:42 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280//.DONEcopying
+    jobid: 10
+    wildcards: subfolder=GCF/001/280/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/001/280/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280//.DONEcopying
+        
+Submitted job 10 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:42 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648//.DONEcopying
+    jobid: 11
+    wildcards: subfolder=GCF/001/648/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/001/648/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648//.DONEcopying
+        
+Submitted job 11 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:43 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007//.DONEcopying
+    jobid: 2
+    wildcards: subfolder=GCF/000/007/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/000/007/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007//.DONEcopying
+        
+Submitted job 2 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:43 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174//.DONEcopying
+    jobid: 6
+    wildcards: subfolder=GCF/000/174/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/000/174/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174//.DONEcopying
+        
+Submitted job 6 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:43 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521//.DONEcopying
+    jobid: 9
+    wildcards: subfolder=GCF/000/521/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/000/521/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521//.DONEcopying
+        
+Submitted job 9 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:44 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090//.DONEcopying
+    jobid: 5
+    wildcards: subfolder=GCF/000/090/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/000/090/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090//.DONEcopying
+        
+Submitted job 5 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 11:00:44 2020]
+rule copy_rna_fna:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225//.DONEcopying
+    jobid: 8
+    wildcards: subfolder=GCF/000/225/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225/
+            find /scr1/users/leej39/RefSeq_rna_200k/rna_fna/GCF/000/225/ -maxdepth 1 -type f | xargs cp -t /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225/ && touch /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225//.DONEcopying
+        
+Submitted job 8 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+[Wed Sep  2 11:00:50 2020]
+Finished job 10.
+1 of 13 steps (8%) done
+[Wed Sep  2 11:01:01 2020]
+Finished job 3.
+2 of 13 steps (15%) done
+[Wed Sep  2 11:01:01 2020]
+Finished job 1.
+3 of 13 steps (23%) done
+[Wed Sep  2 11:01:01 2020]
+Finished job 7.
+4 of 13 steps (31%) done
+[Wed Sep  2 11:01:01 2020]
+Finished job 4.
+5 of 13 steps (38%) done
+[Wed Sep  2 11:01:01 2020]
+Finished job 12.
+6 of 13 steps (46%) done
+[Wed Sep  2 11:01:01 2020]
+Finished job 11.
+7 of 13 steps (54%) done
+[Wed Sep  2 11:01:01 2020]
+Finished job 2.
+8 of 13 steps (62%) done
+[Wed Sep  2 11:01:01 2020]
+Finished job 6.
+9 of 13 steps (69%) done
+[Wed Sep  2 11:01:01 2020]
+Finished job 9.
+10 of 13 steps (77%) done
+[Wed Sep  2 11:01:01 2020]
+Finished job 5.
+11 of 13 steps (85%) done
+[Wed Sep  2 11:01:02 2020]
+Finished job 8.
+12 of 13 steps (92%) done
+
+[Wed Sep  2 11:01:02 2020]
+localrule all:
+    input: /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/010//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/007//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/009//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/021//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/090//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/174//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/183//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/225//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/000/521//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/280//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/648//.DONEcopying, /scr1/users/leej39/RefSeq_rna_200k/unzipped_rna_fna/GCF/001/700//.DONEcopying
+    jobid: 0
+
+[Wed Sep  2 11:01:02 2020]
+Finished job 0.
+13 of 13 steps (100%) done
+Complete log: /home/leej39/refseq_ANI_pctid/.snakemake/log/2020-09-02T110040.490967.snakemake.log
+mail -s "Workflow finished successfully" junglee0713@gmail.com < /home/leej39/refseq_ANI_pctid/.snakemake/log/2020-09-02T110040.490967.snakemake.log

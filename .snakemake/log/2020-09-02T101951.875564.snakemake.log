@@ -1,0 +1,223 @@
+Building DAG of jobs...
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/010//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/007//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/009//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/021//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/090//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/174//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/183//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/225//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/521//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/280//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/648//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/700//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/010//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/007//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/009//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/021//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/090//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/174//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/183//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/225//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/521//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/280//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/648//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/700//.DONEmaking contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+Using shell: /usr/bin/bash
+Provided cluster nodes: 300
+Job counts:
+	count	jobs
+	1	all
+	12	make_dir
+	13
+
+[Wed Sep  2 10:19:51 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/090//.DONEmaking
+    jobid: 5
+    wildcards: subfolder=GCF/000/090/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/090/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/090//.DONEmaking
+        
+Submitted job 5 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:52 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/010//.DONEmaking
+    jobid: 1
+    wildcards: subfolder=GCF/000/010/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/010/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/010//.DONEmaking
+        
+Submitted job 1 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:52 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/280//.DONEmaking
+    jobid: 10
+    wildcards: subfolder=GCF/001/280/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/280/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/280//.DONEmaking
+        
+Submitted job 10 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:53 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/021//.DONEmaking
+    jobid: 4
+    wildcards: subfolder=GCF/000/021/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/021/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/021//.DONEmaking
+        
+Submitted job 4 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:53 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/521//.DONEmaking
+    jobid: 9
+    wildcards: subfolder=GCF/000/521/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/521/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/521//.DONEmaking
+        
+Submitted job 9 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:53 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/648//.DONEmaking
+    jobid: 11
+    wildcards: subfolder=GCF/001/648/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/648/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/648//.DONEmaking
+        
+Submitted job 11 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:54 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/007//.DONEmaking
+    jobid: 2
+    wildcards: subfolder=GCF/000/007/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/007/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/007//.DONEmaking
+        
+Submitted job 2 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:54 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/009//.DONEmaking
+    jobid: 3
+    wildcards: subfolder=GCF/000/009/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/009/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/009//.DONEmaking
+        
+Submitted job 3 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:54 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/183//.DONEmaking
+    jobid: 7
+    wildcards: subfolder=GCF/000/183/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/183/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/183//.DONEmaking
+        
+Submitted job 7 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:55 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/225//.DONEmaking
+    jobid: 8
+    wildcards: subfolder=GCF/000/225/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/225/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/225//.DONEmaking
+        
+Submitted job 8 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:55 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/700//.DONEmaking
+    jobid: 12
+    wildcards: subfolder=GCF/001/700/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/700/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/700//.DONEmaking
+        
+Submitted job 12 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+
+[Wed Sep  2 10:19:55 2020]
+rule make_dir:
+    input: /scr1/users/leej39/RefSeq_rna_200k/test_unique_subfolders.tsv
+    output: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/174//.DONEmaking
+    jobid: 6
+    wildcards: subfolder=GCF/000/174/
+
+
+            mkdir -p /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/174/ && touch /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/174//.DONEmaking
+        
+Submitted job 6 with external jobid 'removed environment variable LD_LIBRARY_PATH_modshare from submit environment - it is considered a security issue'.
+[Wed Sep  2 10:20:02 2020]
+Finished job 5.
+1 of 13 steps (8%) done
+[Wed Sep  2 10:20:02 2020]
+Finished job 1.
+2 of 13 steps (15%) done
+[Wed Sep  2 10:20:02 2020]
+Finished job 10.
+3 of 13 steps (23%) done
+[Wed Sep  2 10:20:02 2020]
+Finished job 4.
+4 of 13 steps (31%) done
+[Wed Sep  2 10:20:02 2020]
+Finished job 9.
+5 of 13 steps (38%) done
+[Wed Sep  2 10:20:02 2020]
+Finished job 11.
+6 of 13 steps (46%) done
+[Wed Sep  2 10:20:02 2020]
+Finished job 2.
+7 of 13 steps (54%) done
+[Wed Sep  2 10:20:02 2020]
+Finished job 3.
+8 of 13 steps (62%) done
+[Wed Sep  2 10:20:02 2020]
+Finished job 7.
+9 of 13 steps (69%) done
+[Wed Sep  2 10:20:02 2020]
+Finished job 8.
+10 of 13 steps (77%) done
+[Wed Sep  2 10:20:03 2020]
+Finished job 12.
+11 of 13 steps (85%) done
+[Wed Sep  2 10:20:03 2020]
+Finished job 6.
+12 of 13 steps (92%) done
+
+[Wed Sep  2 10:20:03 2020]
+localrule all:
+    input: /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/010//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/007//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/009//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/021//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/090//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/174//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/183//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/225//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/000/521//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/280//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/648//.DONEmaking, /scr1/users/leej39/RefSeq_rna_200k/16S_fna/GCF/001/700//.DONEmaking
+    jobid: 0
+
+[Wed Sep  2 10:20:03 2020]
+Finished job 0.
+13 of 13 steps (100%) done
+Complete log: /home/leej39/refseq_ANI_pctid/.snakemake/log/2020-09-02T101951.875564.snakemake.log
+mail -s "Workflow finished successfully" junglee0713@gmail.com < /home/leej39/refseq_ANI_pctid/.snakemake/log/2020-09-02T101951.875564.snakemake.log
