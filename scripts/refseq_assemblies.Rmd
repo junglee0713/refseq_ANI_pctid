@@ -55,8 +55,8 @@ out <- refseq %>%
   select(assembly_accession, rna_path) %>%
   mutate(subfolder = str_remove_all(rna_path, "https://ftp.ncbi.nlm.nih.gov/genomes/all/")) %>%
   filter(str_detect(subfolder, "^GCF")) %>%
-  mutate(subfolder = str_remove_all(subfolder, "GCF_.+$")) %>%
-  mutate(subfolder = str_sub(subfolder, 1, 12)) 
+  mutate(subfolder = str_remove_all(subfolder, "/GCF_.+$")) %>%
+  mutate(subfolder = str_sub(subfolder, 1, 11)) 
 
 out %>%
   write_tsv("accession_ftp_path.tsv", col_names = F) #197,012 rows

@@ -7,6 +7,7 @@ unzipped_rna_dir = config['all']['root'] + '/unzipped_rna_fna'
 ssu_dir = config['all']['root'] + '/16S_fna'
 subfolder_fp = config['all']['subfolder_fp']
 all_16S_fasta = config['all']['root'] + '/all_16S.fa'
+vsearch_out = config['all']['root'] + '/vsearch.out'
 
 workdir: config['all']['root']
 
@@ -23,7 +24,22 @@ for line in lines:
 
 rule all:
     input:
+        vsearch_out
+
+rule vsearch:
+    input:
         all_16S_fasta
+    output:
+        vsearch_out
+    params:
+        id_cut=0.9
+    shell:
+        """
+            vsearch \
+                --allpairs_global {input} \
+                --blast6out {output} \
+                --id {params.id_cut}
+        """
 
 rule collect_16S:
     input:
